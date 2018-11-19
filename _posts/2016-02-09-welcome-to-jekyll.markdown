@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to My GitHub"
-date:   2016-02-09 17:15:11 +0000
+date:   2018-11-19
 categories: post
 ---
 Hai teman-teman, perkenalkan nama saya Rustan Saputra, saya seorang mahasiswa dari Universitas Islam Negri Sultan Syarif Kasim Riau. Saya mahasiswa Fakultas Sains & Teknologi jurusan Sistem Informasi.
